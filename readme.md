@@ -1,1 +1,1 @@
-Readme file written in Heroku workshop
+Readme file written in Heroku workshop taking place in Berlin
